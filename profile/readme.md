@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mundo_supremo_optimized.jpg" alt="Mundo Supremo SA-MP" width="600">
+  <img src="./mundo_supremo_animated.gif" alt="Mundo Supremo SA-MP" width="600">
 </p>
 
 <h1 align="center">🌍 Mundo Supremo - SA:MP Minigames</h1>
