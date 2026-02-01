@@ -12,15 +12,10 @@ Servidor brasileiro de <b>minigames SA-MP</b>, focado em diversão rápida, comp
 
 ## 🎥 Trailer / Vídeo do Servidor
 
-<p align="center">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/V9dq0TPa9t0"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</p>
+[![Assista o vídeo](https://img.youtube.com/vi/V9dq0TPa9t0/0.jpg)](https://www.youtube.com/watch?v=V9dq0TPa9t0)
+
+> Clique na imagem para assistir ao vídeo no YouTube!
+
 
 ## 🎮 Sobre o Servidor
 
