@@ -10,6 +10,18 @@ Servidor brasileiro de <b>minigames SA-MP</b>, focado em diversão rápida, comp
 
 ---
 
+## 🎥 Trailer / Vídeo do Servidor
+
+<p align="center">
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/V9dq0TPa9t0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</p>
+
 ## 🎮 Sobre o Servidor
 
 O **Mundo Supremo** é um servidor de **San Andreas Multiplayer (SA-MP)** totalmente voltado para **minigames**, oferecendo partidas rápidas, modos variados e uma experiência fluida para todos os jogadores.
