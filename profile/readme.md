@@ -56,7 +56,7 @@ Nosso objetivo é entregar:
 - **Plataforma:** SA-MP
 - **Modo:** Minigames
 - **Idioma:** Português (BR)
-- **Status:** Em desenvolvimento / Online *(ajuste como quiser)*
+- **Status:** Fechado
 
 ---
 
